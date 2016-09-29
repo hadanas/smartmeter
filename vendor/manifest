@@ -1,0 +1,69 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/BurntSushi/toml",
+			"repository": "https://github.com/BurntSushi/toml",
+			"revision": "99064174e013895bbd9b025c31100bd1d9b590ca",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/cihub/seelog",
+			"repository": "https://github.com/cihub/seelog",
+			"revision": "752ef646ce438bc649b2bb565188471879185c33",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/influxdata/influxdb/client/v2",
+			"repository": "https://github.com/influxdata/influxdb",
+			"revision": "aa78a2fae2575a419d5b209fc265ba8ce63beec0",
+			"branch": "master",
+			"path": "/client/v2"
+		},
+		{
+			"importpath": "github.com/influxdata/influxdb/models",
+			"repository": "https://github.com/influxdata/influxdb",
+			"revision": "aa78a2fae2575a419d5b209fc265ba8ce63beec0",
+			"branch": "master",
+			"path": "/models"
+		},
+		{
+			"importpath": "github.com/influxdata/influxdb/pkg/escape",
+			"repository": "https://github.com/influxdata/influxdb",
+			"revision": "aa78a2fae2575a419d5b209fc265ba8ce63beec0",
+			"branch": "master",
+			"path": "/pkg/escape"
+		},
+		{
+			"importpath": "github.com/jkeiser/iter",
+			"repository": "https://github.com/jkeiser/iter",
+			"revision": "67b94d6149c6b2efe0fde15d36a50a7692c2da17",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/jochenvg/go-udev",
+			"repository": "https://github.com/jochenvg/go-udev",
+			"revision": "13a9632a960f89c1b5348d87fcd9edd9d047c7bd",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/robfig/cron",
+			"repository": "https://github.com/robfig/cron",
+			"revision": "6f2e8282a1a0d694e55a48ce7d077ee46747feeb",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/tarm/serial",
+			"repository": "https://github.com/tarm/serial",
+			"revision": "37be519d49878d0098e34fb614136b81e6c87861",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/sys/unix",
+			"repository": "https://go.googlesource.com/sys",
+			"revision": "a646d33e2ee3172a661fc09bca23bb4889a41bc8",
+			"branch": "master",
+			"path": "/unix"
+		}
+	]
+}
